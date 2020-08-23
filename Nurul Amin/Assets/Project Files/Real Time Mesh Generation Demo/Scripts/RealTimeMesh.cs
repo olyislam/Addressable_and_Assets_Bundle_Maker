@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Assignment
+namespace Addressable
 {
 
     [RequireComponent(typeof(MeshRenderer))]
